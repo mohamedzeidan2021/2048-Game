@@ -8,7 +8,7 @@ import static game2048.TestUtils.checkTilt;
 
 /** Tests methods on N by N (not 4 by 4) models
  *
- * @author Samuel Berkun
+ *
  */
 @Timeout(value = 60, threadMode = Timeout.ThreadMode.SEPARATE_THREAD)
 public class TestNbyN {

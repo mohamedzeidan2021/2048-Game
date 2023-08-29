@@ -8,7 +8,7 @@ import static com.google.common.truth.Truth.assertWithMessage;
 
 /** Tests the emptySpaceExists() static method of Model.
  *
- * @author Omar Khan
+ *
  */
 @Timeout(value = 60, threadMode = Timeout.ThreadMode.SEPARATE_THREAD)
 public class TestEmptySpace {

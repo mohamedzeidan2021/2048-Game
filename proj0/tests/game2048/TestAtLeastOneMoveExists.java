@@ -10,7 +10,7 @@ import static com.google.common.truth.Truth.assertWithMessage;
  * You shouldn't expect to pass these tests until you're passing all the tests
  * in TestEmptySpace.
  *
- * @author Omar Khan
+ *
  */
 @Timeout(value = 60, threadMode = Timeout.ThreadMode.SEPARATE_THREAD)
 public class TestAtLeastOneMoveExists {

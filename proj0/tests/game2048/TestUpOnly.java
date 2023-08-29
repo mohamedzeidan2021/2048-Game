@@ -8,7 +8,7 @@ import static game2048.TestUtils.checkTilt;
 
 /** Tests the tilt() method in the up (Side.NORTH) direction only.
  *
- * @author Omar Khan
+ *
  */
 @Timeout(value = 60, threadMode = Timeout.ThreadMode.SEPARATE_THREAD)
 public class TestUpOnly {
