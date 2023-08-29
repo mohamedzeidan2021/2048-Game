@@ -6,7 +6,7 @@ import java.util.Random;
 import static game2048.Side.*;
 
 /** The input/output and GUI controller for play of a game of 2048.
- *  @author P. N. Hilfinger. */
+    */
 public class Game {
 
 

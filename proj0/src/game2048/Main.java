@@ -1,7 +1,7 @@
 package game2048;
 
 /** The main class for the 2048 game.
- *  @author P. N. Hilfinger
+ *
  */
 public class Main {
     /** Probability of choosing 2 as random tile (as opposed to 4). */

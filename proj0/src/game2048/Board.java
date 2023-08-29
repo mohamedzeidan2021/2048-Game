@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Formatter;
 
 /**
- * @author hug
+ *
  */
 public class Board {
     /** Current contents of the board. */
